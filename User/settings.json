@@ -1,0 +1,9 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.cursorStyle": "block",
+    "workbench.sideBar.location": "right",
+    "files.trimTrailingWhitespace": true,
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0,
+    "files.autoSave": "off"
+}
