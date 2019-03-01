@@ -1,0 +1,6 @@
+# ignore these directories.
+.git
+
+# ignore I use to not ignore.
+Update_Log.txt
+TODO(jenchieh).txt
