@@ -75,5 +75,9 @@
     {
         "key": "ctrl+g",
         "command": "-workbench.action.gotoLine"
+    },
+    {
+        "key": "ctrl+x b",
+        "command": "editor.action.toggleRenderWhitespace"
     }
 ]

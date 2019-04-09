@@ -4,6 +4,9 @@
     "workbench.sideBar.location": "right",
     "files.trimTrailingWhitespace": true,
     "editor.fontSize": 18,
+    "editor.insertSpaces": true,
     "window.zoomLevel": 0,
-    "files.autoSave": "off"
+    "files.autoSave": "off",
+    "workbench.iconTheme": "vs-nomo-dark",
+    "editor.renderWhitespace": "none"
 }
